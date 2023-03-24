@@ -1,0 +1,19 @@
+# list example
+#with car
+
+# Declare a car list
+cars = ["Ferrari","Masseratti","Lamborghini"]
+
+# Insert a new car in the 2nd position
+cars.insert(1, "Alfa Romero")
+
+# Displaying 
+print("The car list after insert:")
+print(cars)
+
+# Remove a car
+fruits.remove("Ferrari")
+
+# Print the final list with the deleted car
+print("The car list after delete:")
+print(cars)
